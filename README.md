@@ -21,14 +21,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
-ca65 assembler   9 hrs 39 mins   ████████████▒░░░░░░░░░░░░   49.11 %
-C                5 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Markdown         2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Assembly         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Makefile         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+ca65 assembler   8 hrs 47 mins   ███████████▒░░░░░░░░░░░░░   45.54 %
+C                5 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+Markdown         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Assembly         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Makefile         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
