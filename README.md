@@ -21,12 +21,12 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 04 September 2022 - To: 11 September 2022
 
-ca65 assembler   13 hrs 17 mins  █████████████████░░░░░░░░   67.36 %
-C                2 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-V                1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Other            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+ca65 assembler   12 hrs 18 mins  ████████████████▓░░░░░░░░   66.48 %
+C                2 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+V                1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other            53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
