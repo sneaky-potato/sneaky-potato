@@ -19,14 +19,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 12 September 2022 - To: 19 September 2022
 
-Python           11 hrs 7 mins   █████████████░░░░░░░░░░░░   52.54 %
-V                5 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Markdown         2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-JavaScript       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Makefile         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Python           6 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.78 %
+V                4 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+Markdown         2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Prolog           1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JavaScript       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Makefile         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
