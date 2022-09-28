@@ -19,12 +19,11 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 26 September 2022
+From: 20 September 2022 - To: 27 September 2022
 
-Markdown     1 hr 52 mins    ████████████░░░░░░░░░░░░░   47.85 %
-Prolog       50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-Bash         47 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+Markdown     1 hr 52 mins    ███████████████▒░░░░░░░░░   61.26 %
+Bash         47 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
+Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
