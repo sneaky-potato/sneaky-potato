@@ -19,10 +19,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
+From: 24 September 2022 - To: 01 October 2022
 
-Markdown     45 mins         ██████████████████░░░░░░░   72.00 %
-Other        10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Other   2 mins          ████████████████████████▒   96.78 %
 ```
 
 <!--END_SECTION:waka-->
