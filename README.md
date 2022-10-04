@@ -19,9 +19,7 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 September 2022 - To: 02 October 2022
-
-Other   2 mins          ████████████████████████▒   96.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
