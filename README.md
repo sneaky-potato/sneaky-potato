@@ -19,7 +19,11 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 October 2022 - To: 11 October 2022
+
+JavaScript   20 mins         ████████████▒░░░░░░░░░░░░   49.29 %
+HTML         11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Other        5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
 ```
 
 <!--END_SECTION:waka-->
