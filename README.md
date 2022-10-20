@@ -19,9 +19,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-Other         5 hrs 23 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+Makefile     2 hrs 49 mins   ███████████░░░░░░░░░░░░░░   43.66 %
+V            1 hr 27 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+JavaScript   47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+C++          35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Markdown     30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
