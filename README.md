@@ -19,11 +19,10 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
+From: 12 November 2022 - To: 19 November 2022
 
-C++          1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.90 %
-Markdown     1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Other        57 mins         █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+C++          1 hr 17 mins    ███████▒░░░░░░░░░░░░░░░░░   29.78 %
+Other        54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
 ```
 
 <!--END_SECTION:waka-->
