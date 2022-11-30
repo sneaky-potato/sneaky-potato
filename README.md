@@ -19,7 +19,10 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 November 2022 - To: 29 November 2022
+
+Python   22 mins         █████████████████████░░░░   84.58 %
+CSV      4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
 ```
 
 <!--END_SECTION:waka-->
