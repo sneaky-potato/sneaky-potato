@@ -19,10 +19,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Python   22 mins         █████████████████████░░░░   84.58 %
-CSV      4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+JavaScript   1 hr 16 mins    █████████████▒░░░░░░░░░░░   53.19 %
+Python       22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+SCSS         16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
