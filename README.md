@@ -19,14 +19,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 December 2022 - To: 18 December 2022
+From: 12 December 2022 - To: 19 December 2022
 
-JavaScript   4 hrs 8 mins    ███████████████████░░░░░░   75.52 %
-Python       42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-C++          20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript   5 hrs 58 mins   ██████████████████▓░░░░░░   75.26 %
+Python       56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+SCSS         43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
