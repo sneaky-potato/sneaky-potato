@@ -19,14 +19,14 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-JavaScript                 21 hrs 2 mins   ████████████░░░░░░░░░░░░░   48.22 %
-C                          6 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-C++                        5 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Bash                       3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JSON                       2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Java                       1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript                 15 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.60 %
+C                          7 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+C++                        5 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+Bash                       1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Java                       1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JSON                       1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
