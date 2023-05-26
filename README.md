@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Java             17 hrs 43 mins  █████████████████████▓░░░   86.86 %
-XML              1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Properties       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Java             19 hrs 35 mins  ██████████████████████░░░   87.48 %
+XML              1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Properties       1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Markdown         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
