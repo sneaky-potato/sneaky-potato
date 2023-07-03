@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Java             4 hrs 44 mins   ██████████████████▒░░░░░░   73.42 %
-YAML             1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-XML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-SSH Config       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Java             4 hrs 44 mins   ██████████████████▓░░░░░░   74.36 %
+YAML             1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+XML              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+SSH Config       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
