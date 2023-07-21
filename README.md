@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 13 July 2023 - To: 20 July 2023
 
-Java             1 hr 59 mins    ██████████▓░░░░░░░░░░░░░░   42.77 %
-C++              1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   28.04 %
-Rust             29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Properties       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-YAML             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+C++          2 hrs 42 mins   ██████████████▓░░░░░░░░░░   58.70 %
+Java         40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+Rust         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Python       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
