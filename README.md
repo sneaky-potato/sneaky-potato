@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-C++              58 mins         ██████████▒░░░░░░░░░░░░░░   41.87 %
-V                50 mins         █████████░░░░░░░░░░░░░░░░   36.10 %
-Makefile         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-JSON             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+C++              2 hrs 2 mins    ███████████████░░░░░░░░░░   60.21 %
+V                50 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Makefile         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JSON             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
