@@ -19,9 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-C++   4 hrs 48 mins   █████████████████████████   100.00 %
+C++          1 hr 59 mins    ███████████████████████▒░   93.20 %
+XML          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
