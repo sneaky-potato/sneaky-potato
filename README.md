@@ -19,7 +19,7 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2023 - To: 30 December 2023
+From: 24 December 2023 - To: 31 December 2023
 
 C        25 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
 Bash     20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
