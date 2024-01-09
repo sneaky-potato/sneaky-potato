@@ -19,7 +19,7 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
 Python       1 hr 10 mins    ██████████████████▒░░░░░░   73.64 %
 Text         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
