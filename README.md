@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
-Markdown   3 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.92 %
-Python     2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Text       1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Other      38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-netrw      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Markdown   4 hrs 18 mins   █████████████████░░░░░░░░   68.49 %
+Other      38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+netrw      34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Python     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Assembly   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
 ```
 
 <!--END_SECTION:waka-->
