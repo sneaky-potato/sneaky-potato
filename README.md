@@ -19,12 +19,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 02 March 2024
+From: 25 February 2024 - To: 03 March 2024
 
-Markdown       33 mins         ███████████████████████░░   91.44 %
-netrw          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Other          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Image (jpeg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
