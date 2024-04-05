@@ -19,12 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
-Bash          49 mins         ███████████████▓░░░░░░░░░   62.50 %
-Other         20 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-hlsplaylist   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash          49 mins         █████████▓░░░░░░░░░░░░░░░   38.19 %
+Markdown      34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+Other         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+Todotxt       13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+hlsplaylist   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 ```
 
 <!--END_SECTION:waka-->
