@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-C             3 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
-Python        1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-JavaScript    1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-CSV           48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-JSON          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+C             3 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.56 %
+JavaScript    1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Text          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+HTML          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Makefile      21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
