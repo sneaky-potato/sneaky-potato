@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Go           3 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-C            2 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Python       1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Lua          1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
-Other        1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+C            2 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+Go           1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Python       1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Lua          1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Other        1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 ```
 
 <!--END_SECTION:waka-->
