@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2024 - To: 16 June 2024
+From: 10 June 2024 - To: 17 June 2024
 
-Python       1 hr 14 mins    ████████░░░░░░░░░░░░░░░░░   31.54 %
-Lua          57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 %
-C            38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
-conf         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Other        18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+C            1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   33.45 %
+Lua          57 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Python       46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+conf         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Other        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
