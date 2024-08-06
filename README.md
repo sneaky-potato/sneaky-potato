@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-C++          4 hrs 52 mins   ████████████████████▒░░░░   80.69 %
-TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-conf         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-netrw        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-INI          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+C++          4 hrs 52 mins   ████████████████████▓░░░░   83.32 %
+TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+conf         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+netrw        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
