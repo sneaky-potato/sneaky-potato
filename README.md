@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Other   30 mins         ███████████▓░░░░░░░░░░░░░   46.29 %
-C       12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
-sh      11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-INI     9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-netrw   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+C       12 mins         ███████░░░░░░░░░░░░░░░░░░   27.38 %
+sh      11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
+INI     9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Other   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+netrw   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
