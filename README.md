@@ -19,11 +19,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Bash        7 mins          █████████████████████▒░░░   84.75 %
-gitignore   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Other       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
