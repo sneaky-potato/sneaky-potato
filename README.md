@@ -19,13 +19,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2025 - To: 04 March 2025
+From: 26 February 2025 - To: 05 March 2025
 
-goof          1 hr 30 mins    ███████████░░░░░░░░░░░░░░   43.36 %
-Git           20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-TOML          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Go            17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-Other         17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+goof         48 mins         ████████▓░░░░░░░░░░░░░░░░   34.27 %
+Markdown     19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+C            18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+TOML         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Text         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 <!--END_SECTION:waka-->
