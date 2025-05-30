@@ -36,6 +36,7 @@ JSON       8 mins          █░░░░░░░░░░░░░░░░�
 - _fix(java): exclude dev dependencies in gradle lockfile_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/8995838e8d184ee9178d5b52d2d3fa9b4e403015) / [PR Link](https://github.com/aquasecurity/trivy/pull/8803)
 - _docs(java): update info about dev deps in gradle lock_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/3bf4f44931ccb131f95cfb9f46b563cf08f7ed28) / [PR Link](https://github.com/aquasecurity/trivy/pull/8830)
 - _feat(nodejs): add bun.lock parser_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/1dcf81666f1c814600702b9ab603b4070da0b940) / [PR Link](https://github.com/aquasecurity/trivy/pull/8851)
+- _feat(nodejs): add bun.lock analyzer_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/7ca656d54b99346253fc6ac6422eecaca169514e) / [PR Link](https://github.com/aquasecurity/trivy/pull/8897)
 
 ---
 
