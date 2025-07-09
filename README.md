@@ -17,13 +17,9 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
-C++         4 mins          ████████████░░░░░░░░░░░░░   48.54 %
-Markdown    3 mins          ██████████░░░░░░░░░░░░░░░   39.78 %
-JSON        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-gitignore   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Git         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
