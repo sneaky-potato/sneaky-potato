@@ -17,12 +17,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2025 - To: 30 September 2025
+From: 24 September 2025 - To: 01 October 2025
 
-Makefile     2 mins          ████████████░░░░░░░░░░░░░   48.19 %
-Go           1 min           ██████████▒░░░░░░░░░░░░░░   41.77 %
-Public Key   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+rasi         4 mins          ██████████░░░░░░░░░░░░░░░   39.44 %
+Go           2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
+Makefile     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+conf         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
 ```
 
 <!--END_SECTION:waka-->
