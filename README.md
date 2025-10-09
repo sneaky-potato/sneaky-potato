@@ -5,7 +5,7 @@
 ## 🥔 About Me
 
 - Graduated from IIT Kharagpur in 2024
-- Generalist programmer at the moment with some experience in cloud
+- I am interested in systems, linux, math and cloud native software
 - Trying to organize my mess [here](https://sneaky-potato.github.io/) 🚀
 
 ---
@@ -32,11 +32,14 @@ Git             14 mins         █▒░░░░░░░░░░░░░░
 
 ## Contributions to Open Source
 
-**Trivy**
+**[Trivy](https://trivy.dev/latest/)** 
 - _fix(java): exclude dev dependencies in gradle lockfile_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/8995838e8d184ee9178d5b52d2d3fa9b4e403015) / [PR Link](https://github.com/aquasecurity/trivy/pull/8803)
 - _docs(java): update info about dev deps in gradle lock_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/3bf4f44931ccb131f95cfb9f46b563cf08f7ed28) / [PR Link](https://github.com/aquasecurity/trivy/pull/8830)
 - _feat(nodejs): add bun.lock parser_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/1dcf81666f1c814600702b9ab603b4070da0b940) / [PR Link](https://github.com/aquasecurity/trivy/pull/8851)
 - _feat(nodejs): add bun.lock analyzer_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/7ca656d54b99346253fc6ac6422eecaca169514e) / [PR Link](https://github.com/aquasecurity/trivy/pull/8897)
+
+**[Etcd](https://etcd.io/)** 
+- _clientv3: disable auth retry when token is set_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/572ac40db179d1a2b4edfd73dfe3f6176610b413) / [PR Link](https://github.com/etcd-io/etcd/pull/20747)
 
 ---
 
