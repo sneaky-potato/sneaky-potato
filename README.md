@@ -40,6 +40,7 @@ Go         13 mins         ▓░░░░░░░░░░░░░░░░�
 
 **[Etcd](https://etcd.io/)** 
 - _clientv3: disable auth retry when token is set_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/572ac40db179d1a2b4edfd73dfe3f6176610b413) / [PR Link](https://github.com/etcd-io/etcd/pull/20747)
+- _etcdserver: remove permission check on AuthStatus api_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/61cffd5e21ffdf44a7a647ff0d70170a1a71422e) / [PR Link](https://github.com/etcd-io/etcd/pull/20802)
 
 ---
 
