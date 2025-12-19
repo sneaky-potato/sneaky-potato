@@ -39,6 +39,9 @@ No activity tracked
 - _etcdserver: remove permission check on AuthStatus api_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/61cffd5e21ffdf44a7a647ff0d70170a1a71422e) / [PR Link](https://github.com/etcd-io/etcd/pull/20802)
 - _tests: patch unique delete ops in robustness_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/18577f0d734d8f32e087a92c9235e7f800dbb691) / [PR Link](https://github.com/etcd-io/etcd/pull/20877)
 
+**[Rust-GCC](https://rust-gcc.github.io/)** 
+- _Check for deprecated attributes_ -- [Commit Link](https://github.com/Rust-GCC/gccrs/commit/d74c8b4692568bbfc647ef13ac46050d0a53b0f2) / [PR Link](https://github.com/Rust-GCC/gccrs/pull/4327)
+
 ---
 
 ## 🤝 Stalk badges
