@@ -17,13 +17,13 @@ Coming right from my IDE using [Wakatime](http://wakatime.com/) and this awesome
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-Lua          5 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.58 %
-C            4 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-C++          1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Markdown     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Git          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Lua        6 hrs 51 mins   ████████████▓░░░░░░░░░░░░   51.07 %
+C          3 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+C++        1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Git        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
