@@ -49,10 +49,11 @@ I like to give back to community and help other codebases in whatever capacity I
 - _robustness: patch unique compact operations_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/0589e4bb8a8ee3ee494d9805bc181ccee9934054) / [PR Link](https://github.com/etcd-io/etcd/pull/21043)
 
 **[Lua In Kernel](http://www.lua.inf.puc-rio.br)**
-- _lunatik: Add LLDP example_ -- [Commit Link](https://github.com/luainkernel/lunatik/commit/81a178547ff7faa816d0548e2dbf9f1a11db79c6) / [PR Link](https://github.com/luainkernel/lunatik/pull/341)
-- _lunatik: Factor common RAW AF_PACKET socket pattern_
+- _Add LLDP example_ -- [Commit Link](https://github.com/luainkernel/lunatik/commit/81a178547ff7faa816d0548e2dbf9f1a11db79c6) / [PR Link](https://github.com/luainkernel/lunatik/pull/341)
+- _Factor common RAW AF_PACKET socket pattern_
     - [Commit Link 1](https://github.com/luainkernel/lunatik/commit/72cc7be7a6ec1f6723ab96e3e7db7f3c0a531293) / [PR Link](https://github.com/luainkernel/lunatik/pull/360)
     - [Commit Link 2](https://github.com/luainkernel/lunatik/commit/4c7cc53882d4925c6882c8a2b2c6156843667be8) / [PR Link](https://github.com/luainkernel/lunatik/pull/364)
+- _socket: require explicit (protocol, ifindex) for AF_PACKET bind()_ -- [Commit Link](https://github.com/luainkernel/lunatik/commit/e30d0cf370dd900b4b71b260a7a0f848e72319e9) / [PR Link](https://github.com/luainkernel/lunatik/pull/378)
 
 **[Rust-GCC](https://rust-gcc.github.io/)**
 - _Check for deprecated attributes_ -- [Commit Link](https://github.com/Rust-GCC/gccrs/commit/d74c8b4692568bbfc647ef13ac46050d0a53b0f2) / [PR Link](https://github.com/Rust-GCC/gccrs/pull/4327)
