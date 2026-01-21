@@ -19,13 +19,13 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 19 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-C             9 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.31 %
-Markdown      2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Lua           2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Git           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Makefile      46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+C             9 hrs 55 mins   █████████████░░░░░░░░░░░░   52.09 %
+Markdown      2 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Lua           1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Git           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+TOML          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 <!--END_SECTION:waka-->
