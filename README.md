@@ -19,23 +19,22 @@ I like to give back to community and help other codebases in whatever capacity I
 
 Contributions across robustness testing, authentication, client behavior, and server internals:
 
-- _clientv3: disable auth retry when token is set_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/572ac40db179d1a2b4edfd73dfe3f6176610b413) / [PR Link](https://github.com/etcd-io/etcd/pull/20747)
-- _etcdserver: remove permission check on AuthStatus api_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/61cffd5e21ffdf44a7a647ff0d70170a1a71422e) / [PR Link](https://github.com/etcd-io/etcd/pull/20802)
-- _robustness: patch unique delete operations_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/18577f0d734d8f32e087a92c9235e7f800dbb691) / [PR Link](https://github.com/etcd-io/etcd/pull/20877)
-- _robustness: patch unique compact operations_ -- [Commit Link](https://github.com/etcd-io/etcd/commit/0589e4bb8a8ee3ee494d9805bc181ccee9934054) / [PR Link](https://github.com/etcd-io/etcd/pull/21043)
+- Improved client-server authentication for client managed JWTs [#20747](https://github.com/etcd-io/etcd/pull/20747), [#20802](https://github.com/etcd-io/etcd/pull/20802)
+- Removed duplicate delete/compact operations in robustness tests, reducing linearization cost [#20877](https://github.com/etcd-io/etcd/pull/20877), [#21043](https://github.com/etcd-io/etcd/pull/21043)
 
 **[Lua In Kernel](http://www.lua.inf.puc-rio.br) - Kernel Adjacent Runtime**
 
 - Eliminated index-based method dispatch by eagerly wrapping class methods at initialization, reducing allocations in hot paths [#410](https://github.com/luainkernel/lunatik/pull/410)
-- Added LLDP example using AF\_PACKET to demonstrate low-level packet I/O [#341](https://github.com/luainkernel/lunatik/pull/341)
-- Refactored and standardized RAW AF\_PACKET socket patterns for safer reuse [#360](https://github.com/luainkernel/lunatik/pull/360), [#364](https://github.com/luainkernel/lunatik/pull/364)
-- Enforced explicit (protocol, ifindex) pairing in raw socket bind() for API correctness [#378](https://github.com/luainkernel/lunatik/pull/378)
+- Added LLDP example using `AF_PACKET` to demonstrate low-level packet I/O [#341](https://github.com/luainkernel/lunatik/pull/341)
+- Standardized raw socket patterns for safer reuse [#360](https://github.com/luainkernel/lunatik/pull/360), [#364](https://github.com/luainkernel/lunatik/pull/364)
+- Enforced explicit (protocol, ifindex) pairing in raw socket `bind()` for API correctness [#378](https://github.com/luainkernel/lunatik/pull/378)
 
 **[Trivy](https://trivy.dev/latest/)**
-- _fix(java): exclude dev dependencies in gradle lockfile_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/8995838e8d184ee9178d5b52d2d3fa9b4e403015) / [PR Link](https://github.com/aquasecurity/trivy/pull/8803)
-- _docs(java): update info about dev deps in gradle lock_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/3bf4f44931ccb131f95cfb9f46b563cf08f7ed28) / [PR Link](https://github.com/aquasecurity/trivy/pull/8830)
-- _feat(nodejs): add bun.lock parser_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/1dcf81666f1c814600702b9ab603b4070da0b940) / [PR Link](https://github.com/aquasecurity/trivy/pull/8851)
-- _feat(nodejs): add bun.lock analyzer_ -- [Commit Link](https://github.com/aquasecurity/trivy/commit/7ca656d54b99346253fc6ac6422eecaca169514e) / [PR Link](https://github.com/aquasecurity/trivy/pull/8897)
+
+- Fixed Java dependency analysis by excluding development dependencies from Gradle lockfile [#8803](https://github.com/aquasecurity/trivy/pull/8803)
+- Updated documentation to clarify handling of development dependencies in Gradle lockfiles [#8830](https://github.com/aquasecurity/trivy/pull/8830)
+- Added support for parsing `bun.lock` files to improve Node.js ecosystem coverage [#8851](https://github.com/aquasecurity/trivy/pull/8851)
+- Implemented vulnerability analysis for Bun lockfiles in Node.js projects [#8897](https://github.com/aquasecurity/trivy/pull/8897)
 
 **[Rust-GCC](https://rust-gcc.github.io/)**
 - _Check for deprecated attributes_ -- [Commit Link](https://github.com/Rust-GCC/gccrs/commit/d74c8b4692568bbfc647ef13ac46050d0a53b0f2) / [PR Link](https://github.com/Rust-GCC/gccrs/pull/4327)
