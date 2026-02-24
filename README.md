@@ -50,13 +50,13 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-C             4 hrs 8 mins          ███████████▒░░░░░░░░░░░░░   45.77 %
-C++           2 hrs 22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 %
-Markdown      1 hr 45 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Makefile      17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Other         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+C             3 hrs 21 mins         █████████░░░░░░░░░░░░░░░░   36.22 %
+Markdown      2 hrs 51 mins         ███████▓░░░░░░░░░░░░░░░░░   30.86 %
+C++           1 hr 58 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+Makefile      30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Other         14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
