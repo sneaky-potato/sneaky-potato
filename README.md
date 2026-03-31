@@ -65,13 +65,12 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2026 - To: 29 March 2026
+From: 23 March 2026 - To: 30 March 2026
 
-Typst        3 hrs 40 mins         ███████████████▓░░░░░░░░░   62.43 %
-C++          1 hr 49 mins          ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-JavaScript   15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Git          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Typst   1 hr 58 mins          █████████████░░░░░░░░░░░░   51.51 %
+C++     1 hr 48 mins          ███████████▓░░░░░░░░░░░░░   47.33 %
+Other   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Git     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
