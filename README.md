@@ -65,7 +65,7 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
 C++     1 hr 48 mins          ████████████████▓░░░░░░░░   66.46 %
 Typst   52 mins               ████████░░░░░░░░░░░░░░░░░   32.11 %
