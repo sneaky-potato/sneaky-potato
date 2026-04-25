@@ -65,12 +65,10 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2026 - To: 23 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Go      2 hrs 16 mins         ██████████████████████▒░░   88.86 %
-Other   14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-C++     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-gosum   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go      1 hr 44 mins          ██████████████████████░░░   87.98 %
+Other   14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
 ```
 
 <!--END_SECTION:waka-->
