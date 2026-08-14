@@ -65,13 +65,13 @@ do that automatically.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-C           3 hrs 59 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
-Bash        2 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
-Markdown    1 hr 58 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Lua         1 hr 50 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Makefile    32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+C           3 hrs 27 mins         ███████░░░░░░░░░░░░░░░░░░   28.30 %
+Bash        2 hrs 45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+Markdown    2 hrs 42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+Lua         2 hrs 5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+Makefile    34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
